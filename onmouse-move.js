@@ -1,6 +1,6 @@
 ('button').on('mouseover',function() {
   (this).css({
-   top: (Math.random()*100)+"px",
-   left: (Math.random()*100)+"px", 
+   top: (Math.random()*30)+"px",
+   left: (Math.random()*30)+"px", 
  });
 });
